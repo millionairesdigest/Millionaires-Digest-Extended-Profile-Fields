@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Millionaire's Digest Mutual Friends
+Plugin Name: Millionaire's Digest Extended Profile Fields
 Description: Allow BuddyPress profile fields to have additional options when it comes to displaying and editing them on the frontend.
 Version: 1.0.0
 Author: K&L (Founder of the Millionaire's Digest)
